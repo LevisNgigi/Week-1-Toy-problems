@@ -1,5 +1,5 @@
-Title;
-Toy PROBLEMS
+
+# Toy Problems
 
 Description:
 This repo contains solutions to the following challenges;
@@ -30,8 +30,28 @@ Links to an external site.-  Links to an external site.Links to an external site
 
 set up a new repository on GitHub and clone it to your local machine.
 
-author
-levis ngigi
 
-licesnse
+
+
+## Authors
+
+- [@Levis Ngigi](https://github.com/LevisNgigi)
+
+## License
+
 MIT License
+
+
+## Deployment
+
+To deploy this project run
+
+Fork it
+
+Then clone it to your local machine .
+
+CD to the directory
+
+run node <filename> and access it in your browsers console
+
+
